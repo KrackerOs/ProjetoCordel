@@ -58,3 +58,11 @@
     font-family: var(--fonte3);
     font-size: 3vh;
  }
+
+ section > p{
+ padding-bottom: 2em;
+ }
+
+ section#img01{
+   background-image: url();
+ }
